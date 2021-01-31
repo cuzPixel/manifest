@@ -59,5 +59,6 @@
   <!-- System Repos -->
   <project path="system/bt" name="system_bt" remote="cuzpixel" />
   <project path="system/core" name="system_core" remote="cuzpixel" />
+  <project path="system/sepolicy" name="system_sepolicy" remote="cuzpixel" />
 
 </manifest>

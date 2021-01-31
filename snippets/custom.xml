@@ -15,14 +15,14 @@
   <project path="device/qcom/sepolicy_vndr" name="device_qcom_sepolicy_vndr" remote="cuzpixel" />
 
   <!-- Framework repos -->
-  <project path="frameworks/av" name="frameworks_av" remote="cuzpixel" revision="11.0" />
-  <project path="frameworks/base" name="frameworks_base" remote="cuzpixel" revision="11.0" />
-  <project path="frameworks/native" name="frameworks_native" remote="cuzpixel" revision="11.0" />
-  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="cuzpixel" revision="11.0"/>
-  <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="cuzpixel" revision="11.0" />
+  <project path="frameworks/av" name="frameworks_av" remote="cuzpixel" />
+  <project path="frameworks/base" name="frameworks_base" remote="cuzpixel" />
+  <project path="frameworks/native" name="frameworks_native" remote="cuzpixel" />
+  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="cuzpixel" />
+  <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="cuzpixel" />
 
   <!-- General repos -->
-  <project path="build/make" name="build" remote="cuzpixel" revision="11.0" >
+  <project path="build/make" name="build" remote="cuzpixel" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
     <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
@@ -48,11 +48,11 @@
   <project path="hardware/google/pixel" name="hardware_google_pixel" remote="cuzpixel" />
 
   <!-- Packages repos -->
-  <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="cuzpixel" revision="11.0" />
-  <project path="packages/apps/CameraGo" name="packages_apps_CameraGo" remote="cuzpixel" revision="11.0"/>
+  <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="cuzpixel" />
+  <project path="packages/apps/CameraGo" name="packages_apps_CameraGo" remote="cuzpixel" />
   <project path="packages/apps/CarrierConfig" name="packages_apps_CarrierConfig" remote="cuzpixel" />
-  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="cuzpixel" revision="11.0"/>
-  <project path="packages/apps/Updater" name="packages_apps_Updater" remote="cuzpixel" revision="11.0"/>
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="cuzpixel" />
+  <project path="packages/apps/Updater" name="packages_apps_Updater" remote="cuzpixel" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="cuzpixel" />
   <project path="packages/resources/devicesettings-custom" name="packages_resources_devicesettings-custom" remote="cuzpixel" />
 

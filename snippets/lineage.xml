@@ -23,7 +23,6 @@
   <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="lineage" />
   <project path="vendor/qcom/opensource/fm-commonsys" name="android_vendor_qcom_opensource_fm-commonsys" remote="lineage" />
   <project path="vendor/qcom/opensource/power" name="android_vendor_qcom_opensource_power" remote="lineage" />
-
   <project path="external/ant-wireless/ant_client" name="android_external_ant-wireless_ant_client" remote="lineage" />
   <project path="external/ant-wireless/ant_native" name="android_external_ant-wireless_ant_native" remote="lineage" />
   <project path="external/ant-wireless/ant_service" name="android_external_ant-wireless_ant_service" remote="lineage" />
@@ -77,7 +76,7 @@
   <project path="external/tinycompress" name="android_external_tinycompress" remote="lineage" />
   <project path="external/toybox" name="android_external_toybox" remote="lineage" />
 
-  <project path="external/bson" name="android_external_bson" remote="lineage" revision="lineage-18.1" />
+  <project path="external/bson" name="android_external_bson" remote="lineage" />
   <project path="external/connectivity" name="android_external_connectivity" remote="lineage" />
   <project path="external/exfatprogs" name="android_external_exfatprogs" remote="lineage" />
   <project path="external/json-c" name="android_external_json-c" remote="lineage" />
@@ -95,8 +94,8 @@
 
   <!-- Hardware repos -->
   <project path="hardware/broadcom/nfc" name="android_hardware_broadcom_nfc" remote="lineage" />
-  <project path="hardware/lineage/livedisplay" name="android_hardware_lineage_livedisplay" remote="lineage" revision="lineage-18.1" />
-  <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="lineage" revision="lineage-18.1" />
+  <project path="hardware/lineage/livedisplay" name="android_hardware_lineage_livedisplay" remote="lineage" />
+  <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="lineage" />
   <project path="hardware/broadcom/libbt" name="android_hardware_broadcom_libbt" remote="lineage" />
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="lineage" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="lineage" />

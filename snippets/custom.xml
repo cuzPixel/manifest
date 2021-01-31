@@ -45,7 +45,8 @@
 
   <!-- Hardware repos -->
   <project path="hardware/custom/interfaces" name="hardware_custom_interfaces" remote="cuzpixel" />
-  
+  <project path="hardware/google/pixel" name="hardware_google_pixel" remote="cuzpixel" />
+
   <!-- Packages repos -->
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="cuzpixel" revision="11.0" />
   <project path="packages/apps/CameraGo" name="packages_apps_CameraGo" remote="cuzpixel" revision="11.0"/>

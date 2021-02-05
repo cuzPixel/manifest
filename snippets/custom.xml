@@ -54,6 +54,7 @@
   <project path="packages/apps/CarrierConfig" name="packages_apps_CarrierConfig" remote="cuzpixel" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="cuzpixel" />
   <project path="packages/apps/Updater" name="packages_apps_Updater" remote="cuzpixel" />
+  <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="cuzpixel" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="cuzpixel" />
 
   <!-- System Repos -->

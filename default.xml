@@ -7,7 +7,7 @@
   <remote name="github"
           fetch="https://github.com/" />
 
-  <default revision="android11-qpr2-release"
+  <default revision="refs/tags/android-11.0.0_r32"
            remote="aosp"
            sync-j="4"
            sync-c="true"

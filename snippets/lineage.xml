@@ -130,7 +130,6 @@
   <project path="system/netd" name="android_system_netd" remote="lineage" />
   <project path="system/timezone" name="android_system_timezone" remote="lineage" />
   <project path="system/tools/mkbootimg" name="android_system_tools_mkbootimg" remote="lineage" />
-  <project path="system/update_engine" name="android_system_update_engine" remote="lineage" />
 
   <!-- Tools Repos -->
   <project path="tools/extract-utils" name="android_tools_extract-utils" remote="lineage" />

@@ -119,7 +119,6 @@
   <project path="packages/apps/Traceur" name="android_packages_apps_Traceur" remote="lineage" />
   <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="lineage" />
   <project path="packages/services/BuiltInPrintService" name="android_packages_services_BuiltInPrintService" remote="lineage" />
-  <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="lineage" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/build-tools" name="android_prebuilts_build-tools" remote="lineage" clone-depth="1" />

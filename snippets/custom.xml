@@ -61,6 +61,7 @@
   <project path="packages/apps/Updater" name="packages_apps_Updater" remote="cuzpixel" />
   <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="cuzpixel" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="cuzpixel" />
+  <project path="packages/services/Telephony" name="packages_services_Telephony" remote="cuzpixel" />
 
   <!-- System Repos -->
   <project path="system/bt" name="system_bt" remote="cuzpixel" />

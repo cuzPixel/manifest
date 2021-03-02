@@ -88,7 +88,6 @@
 
   <!-- General repos -->
   <project path="art" name="android_art" remote="lineage" />
-  <project path="bionic" name="android_bionic" remote="lineage" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="lineage" />
   <project path="development" name="android_development" remote="lineage" />
 

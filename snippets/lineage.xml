@@ -88,7 +88,6 @@
 
   <!-- General repos -->
   <project path="bootable/recovery" name="android_bootable_recovery" remote="lineage" />
-  <project path="development" name="android_development" remote="lineage" />
 
   <!-- Hardware repos -->
   <project path="hardware/broadcom/nfc" name="android_hardware_broadcom_nfc" remote="lineage" />

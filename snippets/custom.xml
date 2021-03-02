@@ -36,6 +36,7 @@
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
+  <project path="art" name="art" remote="cuzpixel" />
   <project path="bionic" name="bionic" remote="cuzpixel" />
   <project path="build/blueprint" name="build_blueprint" remote="cuzpixel" />
   <project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="cuzpixel" />

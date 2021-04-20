@@ -57,6 +57,9 @@
   <project path="vendor/qcom/opensource/usb" name="android_vendor_qcom_opensource_usb" remote="lineage" />
   <project path="vendor/qcom/opensource/vibrator" name="android_vendor_qcom_opensource_vibrator" remote="lineage" />
   <project path="vendor/qcom/opensource/wfd-commonsys" name="android_vendor_qcom_opensource_wfd-commonsys" remote="lineage" />
+  <project path="vendor/qcom/opensource/power" name="android_vendor_qcom_opensource_power" remote="lineage" />
+  <project path="development" name="android_development" remote="lineage" />
+  <project path="art" name="android_art" remote="lineage" />
 
   <!-- Custom additions -->
   <project path="prebuilts/extract-tools" name="android_prebuilts_extract-tools" remote="lineage" clone-depth="1" />
@@ -83,6 +86,7 @@
   <project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="lineage" />
 
   <!-- Framework repos -->
+  <project path="frameworks/av" name="android_frameworks_av" remote="lineage" />
   <project path="frameworks/opt/timezonepicker" name="android_frameworks_opt_timezonepicker" remote="lineage" />
 
   <!-- General repos -->
@@ -104,6 +108,7 @@
   <project path="hardware/ril" name="android_hardware_ril" remote="lineage" />
 
   <!-- Packages repos -->
+  <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="lineage" />
   <project path="packages/apps/FMRadio" name="android_packages_apps_FMRadio" remote="lineage" />
   <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="lineage" />
   <project path="packages/apps/PermissionController" name="android_packages_apps_PackageInstaller" remote="lineage" />
@@ -113,6 +118,7 @@
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="lineage" />
   <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="lineage" />
   <project path="packages/services/BuiltInPrintService" name="android_packages_services_BuiltInPrintService" remote="lineage" />
+  <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="lineage" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/build-tools" name="android_prebuilts_build-tools" remote="lineage" clone-depth="1" />
@@ -124,12 +130,15 @@
   <project path="prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9" name="android_prebuilts_gcc_linux-x86_x86_x86_64-linux-android-4.9" remote="lineage" clone-depth="1" />
 
   <!-- System Repos -->
+  <project path="system/bt" name="android_system_bt" remote="lineage" />
   <project path="system/tools/dtbtool" name="android_system_tools_dtbtool" remote="lineage" />
   <project path="system/incremental_delivery" name="android_system_incremental_delivery" remote="lineage" />
   <project path="system/libufdt" name="android_system_libufdt" remote="lineage" />
   <project path="system/netd" name="android_system_netd" remote="lineage" />
   <project path="system/timezone" name="android_system_timezone" remote="lineage" />
   <project path="system/tools/mkbootimg" name="android_system_tools_mkbootimg" remote="lineage" />
+  <project path="system/vold" name="android_system_vold" remote="lineage" />
+  <project path="system/update_engine" name="android_system_update_engine" remote="lineage" />
 
   <!-- Tools Repos -->
   <project path="tools/extract-utils" name="android_tools_extract-utils" remote="lineage" />

@@ -136,6 +136,7 @@
   <project path="system/tools/dtbtool" name="android_system_tools_dtbtool" remote="lineage" />
   <project path="system/incremental_delivery" name="android_system_incremental_delivery" remote="lineage" />
   <project path="system/libufdt" name="android_system_libufdt" remote="lineage" />
+  <project path="system/media" name="android_system_media" remote="lineage" />
   <project path="system/netd" name="android_system_netd" remote="lineage" />
   <project path="system/timezone" name="android_system_timezone" remote="lineage" />
   <project path="system/tools/mkbootimg" name="android_system_tools_mkbootimg" remote="lineage" />

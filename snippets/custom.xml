@@ -56,6 +56,7 @@
   <project path="packages/apps/Updater" name="packages_apps_Updater" remote="cuzpixel" />
   <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="cuzpixel" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="cuzpixel" />
+  <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="cuzpixel" />
 
   <!-- System Repos -->
   <project path="system/core" name="system_core" remote="cuzpixel" />

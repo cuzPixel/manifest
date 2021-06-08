@@ -61,4 +61,7 @@
   <project path="system/core" name="system_core" remote="cuzpixel" />
   <project path="system/sepolicy" name="system_sepolicy" remote="cuzpixel" />
 
+  <!-- Tools Repos -->
+  <project path="tools/extract-utils" name="tools_extract-utils" remote="cuzpixel" />
+
 </manifest>

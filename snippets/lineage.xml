@@ -143,7 +143,6 @@
   <project path="system/update_engine" name="android_system_update_engine" remote="lineage" />
 
   <!-- Tools Repos -->
-  <project path="tools/extract-utils" name="android_tools_extract-utils" remote="lineage" />
   <project path="tools/metalava" name="android_tools_metalava" remote="lineage" />
 
 </manifest>

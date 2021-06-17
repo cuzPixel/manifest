@@ -48,7 +48,6 @@
   <project path="hardware/interfaces" name="hardware_interfaces" remote="cuzpixel" />
 
   <!-- Packages repos -->
-  <project path="packages/apps/CameraGo" name="packages_apps_CameraGo" remote="cuzpixel" />
   <project path="packages/apps/CarrierConfig" name="packages_apps_CarrierConfig" remote="cuzpixel" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="cuzpixel" />
   <project path="packages/apps/SimpleDeviceConfig" name="packages_apps_SimpleDeviceConfig" remote="cuzpixel" />

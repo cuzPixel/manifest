@@ -77,7 +77,7 @@
   <project path="external/tinyalsa" name="android_external_tinyalsa" remote="lineage" />
   <project path="external/tinycompress" name="android_external_tinycompress" remote="lineage" />
   <project path="external/toybox" name="android_external_toybox" remote="lineage" />
-
+  <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="lineage" />
   <project path="external/bson" name="android_external_bson" remote="lineage" />
   <project path="external/connectivity" name="android_external_connectivity" remote="lineage" />
   <project path="external/exfatprogs" name="android_external_exfatprogs" remote="lineage" />

@@ -49,6 +49,7 @@
 
   <!-- Packages repos -->
   <project path="packages/apps/CarrierConfig" name="packages_apps_CarrierConfig" remote="cuzpixel" />
+  <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="cuzpixel" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="cuzpixel" />
   <project path="packages/apps/SimpleDeviceConfig" name="packages_apps_SimpleDeviceConfig" remote="cuzpixel" />
   <project path="packages/apps/Updater" name="packages_apps_Updater" remote="cuzpixel" />
@@ -58,6 +59,7 @@
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="cuzpixel" />
 
   <!-- System Repos -->
+  <project path="system/bt" name="system_bt" remote="cuzpixel" />
   <project path="system/core" name="system_core" remote="cuzpixel" />
   <project path="system/sepolicy" name="system_sepolicy" remote="cuzpixel" />
 
